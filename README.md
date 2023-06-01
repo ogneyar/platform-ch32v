@@ -86,3 +86,5 @@ The configuration in regards to the builder scripts etc. are still in progress. 
 ![ch32v307 evt board](docs/ch307_evt.jpg)
 ![ch32v003 evt board](docs/ch32v003_evt.jpg)
 ![ch32v203 evt board](docs/ch32v203_evt.jpg)
+
+тест (:
